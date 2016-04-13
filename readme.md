@@ -1,4 +1,4 @@
-# Age Twig filter for Bolt
+# Age Twig filter for Bolt CMS
 
 A Twig filter for [Bolt CMS](https://bolt.cm) that converts a date to an age. Works like this:
 
